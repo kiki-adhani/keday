@@ -1,0 +1,54 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.24.3-Tisler">
+  <identifier>Capitals</identifier>
+  <parentidentifier></parentidentifier>
+  <language>EN</language>
+  <type>dataset</type>
+  <title>Capitals</title>
+  <abstract>This data displays the national and the provincial capitals of Indonesia. It is a subset of the world cities dataset produced by Environmental Systems Research Institute, Inc. (ESRI), in 2000. Refer to the ESRI metatadata file provided as an HTML file along with this data. The original data is provided by ESRI on the Maps &amp; Data DVD provided with ArcGIS software. This dataset was prepared by the World Resources Institute for use in the Interactive Atlas of Indonesia's Forests (2009). 
+
+Made only for the purpose of displaying within the Interactive Atlas of Indonesian's Forests v.1.0 ONLY. This is not for distribution. Please contact ESRI for obtaining the orginial data or obtain it for the ESRI Data and Maps 2000 cd-rom.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>society</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>mailing address</type>
+      <address>10 G Street, NE</address>
+      <city>Washington</city>
+      <administrativearea>D.C</administrativearea>
+      <postalcode>20002</postalcode>
+      <country>USA</country>
+    </contactAddress>
+    <name>World Resources Institute</name>
+    <organization>World Resources Institute</organization>
+    <position></position>
+    <voice>001-202-729-7795</voice>
+    <fax></fax>
+    <email>susanm@wri.org</email>
+    <role>Point of contact</role>
+  </contact>
+  <links>
+    <link description="" type="Local Area Network" size="" url="file://\\WRICSAP029333\GIS\Users\Lauriane\BACK_UPS\Indonesia_Atlas_1\Indonesia_Atlas_Cd_rom_versions\24_Atlas_Indonesia\Install\Data\PopulatedPlaces\Capitals.shp" mimeType="" name="Shapefile" format=""/>
+  </links>
+  <fees></fees>
+  <constraints type="Access">Unrestricted</constraints>
+  <rights>See ESRI for details.</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minz="0" maxy="5.56666699999999981" dimensions="2" maxz="0" miny="-10.17246399999999973" crs="EPSG:4326" maxx="140.71899400000000924" minx="95.33333600000000274"/>
+  </extent>
+</qgis>
